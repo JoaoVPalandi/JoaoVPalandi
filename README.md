@@ -40,7 +40,7 @@ Logo após, comece a seguir os perfis dos colegas e professores. Lemebre-se de q
 
 # Olá, eu sou o João Palandi 👋
 
-![Imagem de Perfil]([https://github.com/seu-usuario/seu-usuario/blob/main/imagem_de_perfil.jpg?raw=true](https://avatars.githubusercontent.com/u/200940299?v=4))
+![Imagem de Perfil](https://avatars.githubusercontent.com/u/200940299?v=4)
 
 ## Quem sou eu?
 
