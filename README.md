@@ -19,18 +19,8 @@ def ola_mundo() {
 }
 ```
 
-## Atividade (Proposta)
 
-Crie um repositório especial no seu GitHub com um arquivo README.md para adicionar uma nova seção ao seu perfil público. Essa nova seção deve incluir 
-os seguintes tópicos:
+![snake gif](https://github.com/JoaoVPalandi/JoaoVPalandi/blob/output/github-contribution-grid-snake.svg)
 
-- Quem é você?(uma beve descrição)
-- O que está estudando
-- Que carreiras gostaria de tentar seguir
-- Quais são seus gostos pessoais e como você usa seu tempo livre
-- Ãlgo a mais que queira falar sobre você
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVPalandi&repo-JoaoVPalandi&theme=react)](https://github.com/JoaoVPalandi/JoaoVPalandi)
 
-Inclua também imagens, ícones, links e oustros elementos que desejar para personalizar seu perfil. ultiliza a documentação oficial do GitHub
-para Markdown ou ourtra documentação que prefirir.
-
-Logo após, comece a seguir os perfis dos colegas e professores. Lemebre-se de que uma comuinidade forte se apóia para crecimento mútuo. A entre dessa atividade será verificada no painel de seguidores dos prefessores: ```@joaoroccella``` e ```@prof-Edagard```
