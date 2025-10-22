@@ -1,5 +1,22 @@
-# 💫 Sobre mim:
-Estou me formando em DS no Senai-SP
+# Este sou eu 
+
+Sou o João Plandi, <ins>estudande de DS no SENAI-SP<ins>. Gosto de música.
+
+## Estou me formando 
+
+Estou em minha caminhada para minha formação.
+
+Posso escrever um pequeno trecho de código como `git status` ou então trechos maiores como o abaixo:
+
+```javascript
+const constante = 0; //constante precisa ser inicializado
+```
+
+```python
+def ola_mundo() {
+  print('Olá, Mundo!')
+}
+```
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JoaoVPalandi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -20,24 +37,5 @@ Estou me formando em DS no Senai-SP
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# Este sou eu 
-
-Sou o João Plandi, <ins>estudande de DS no SENAI-SP<ins>. Gosto de música.
-
-## Estou me formando 
-
-Estou em minha caminhada para minha formação.
-
-Posso escrever um pequeno trecho de código como `git status` ou então trechos maiores como o abaixo:
-
-```javascript
-const constante = 0; //constante precisa ser inicializado
-```
-
-```python
-def ola_mundo() {
-  print('Olá, Mundo!')
-}
-```
 
 
